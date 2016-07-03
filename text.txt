@@ -1,6 +1,2 @@
 less, branch 2
-branch 1
-branch 5
-dfgsdfgs
-мп вапрвапр
-gh fjk ghkj
+branch master
