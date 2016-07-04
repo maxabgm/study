@@ -1,2 +1,2 @@
 less, branch 2
-branch master
+branch master master
