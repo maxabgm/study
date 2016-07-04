@@ -1,3 +1,4 @@
 less, branch 2
 branch master br1
+branch master master
 hello nneeww branch 1
